@@ -1,0 +1,10 @@
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Requirements
+Install the required libraries before running the program:
+
+```bash
+pip install pandas scikit-learn
